@@ -1,0 +1,1 @@
+Create a saved reply for something that is repeatedly used such as, "See comments.". When needed, `ctrl .` and select the reply or `ctrl #` while in the dialogue box for select a particular response. `ctrl #` outside of the dialogue box selects a tab, not a saved reply.
