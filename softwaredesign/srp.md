@@ -1,0 +1,1 @@
+A module (a file or a collection of functions and data structures) should be responsible to only one actor. An actor can be a user, a group of users, or a stakeholder. The actor would require and request a change to that module. A change to the module doesn't affect other actors in unanticipated ways.
