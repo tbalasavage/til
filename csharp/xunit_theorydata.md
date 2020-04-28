@@ -38,7 +38,7 @@ To use it, apply the `Theory` and `ClassData` attributes:
 ```
 [Theory]
 [ClassData(typeof(ClassDataGenerator))]
-public void MyFeatureDoesWhatIExpect()
+public void MyFeatureDoesWhatIExpect(MyObject myObject)
 {
     /* test code */
 }
