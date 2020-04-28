@@ -16,5 +16,6 @@ A collection of TILs
 * [String format dates with dateFormat](javascript/format_dates_with_dateformat.md)
 ### C#
 * [Specify constructor for JSON deserialization](csharp/specify_constructor_for_json_deserialization.md)
+* [XUnit TheoryData](csharp/xunit_theorydata.md)
 ### Time Zones
 * [Ambiguous and invalid times](time_zones/ambiguous_and_invalid_times.md)
