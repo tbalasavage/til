@@ -1,6 +1,6 @@
-Found on [blog post by Hamid Mosalla](https://hamidmosalla.com/2020/04/05/xunit-part-8-using-theorydata-instead-of-memberdata-and-classdata/)
+Found on a [blog post by Hamid Mosalla](https://hamidmosalla.com/2020/04/05/xunit-part-8-using-theorydata-instead-of-memberdata-and-classdata/)
 
-One options for using `ClassData` with an XUnit `Theory` is creating a class like the below.
+One option for using `ClassData` with an XUnit `Theory` is creating a class like the below.
 
 ```
 public class ClassDataGenerator : IEnumerable<object[]>
@@ -19,9 +19,9 @@ public class ClassDataGenerator : IEnumerable<object[]>
 
 There are at least two problems:
 1. There's no type check at compile time due to the `object[]`.
-1. There's unnecessary code required that isn't directly related to the test.
+1. There's unnecessary code that isn't directly related to the test.
 
-Instead, you can can create a class that extends `TheoryData` that is strongly-typed and more simple to read. An example is shown below.
+Instead, you can can create a class that extends `TheoryData`. The class is strongly-typed and more simple to read than the example above. A rewritten `ClassDataGenerator` is shown below.
 
 ```
 public class ClassDataGenerator : TheoryData<MyObject>
