@@ -7,6 +7,7 @@ A collection of TILs
 * [JavaScript](#javascript)
 * [C#](#c#)
 * [Time Zones](#time-zones)
+* [JSON](#json)
 
 ### GitHub
 * [Create saved replies](github/saved_replies.md)
@@ -19,3 +20,5 @@ A collection of TILs
 * [XUnit TheoryData](csharp/xunit_theorydata.md)
 ### Time Zones
 * [Ambiguous and invalid times](time_zones/ambiguous_and_invalid_times.md)
+### JSON
+* [jq_basics](json/jq_basics.md)
