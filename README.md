@@ -8,7 +8,10 @@ A collection of TILs
 * [C#](#c#)
 * [Time Zones](#time-zones)
 * [JSON](#json)
+* [Azure](#azure)
 
+### Azure
+* [Azure CLI aliases](azure/azure_cli_aliases.md)
 ### GitHub
 * [Create saved replies](github/saved_replies.md)
 ### Software design
