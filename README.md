@@ -9,10 +9,13 @@ A collection of TILs
 * [Time Zones](#time-zones)
 * [JSON](#json)
 * [Azure](#azure)
+* [Azure Devops](#azure-devops)
 
 ### Azure
 * [Azure CLI aliases](azure/azure_cli_aliases.md)
 * [Find App Insights resource by connection string](azure/find_app_insights_resource_by_connection_string.md)
+### Azure Devops
+* [Run pipeline from CLI](azure_devops/run_pipeline_from_cli.md)
 ### GitHub
 * [Create saved replies](github/saved_replies.md)
 ### Software design
