@@ -11,6 +11,8 @@ A collection of TILs
 * [Azure](#azure)
 * [Azure Devops](#azure-devops)
 
+
+
 ### Azure
 * [Azure CLI aliases](azure/azure_cli_aliases.md)
 * [Find App Insights resource by connection string](azure/find_app_insights_resource_by_connection_string.md)
