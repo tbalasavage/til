@@ -26,6 +26,7 @@ A collection of TILs
 ### C#
 * [Specify constructor for JSON deserialization](csharp/specify_constructor_for_json_deserialization.md)
 * [XUnit TheoryData](csharp/xunit_theorydata.md)
+* [JSON with HttpClient](csharp/json_with_httpclient.md)
 ### Time Zones
 * [Ambiguous and invalid times](time_zones/ambiguous_and_invalid_times.md)
 ### JSON
