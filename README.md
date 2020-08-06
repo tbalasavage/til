@@ -10,6 +10,7 @@ A collection of TILs
 * [JSON](#json)
 * [Azure](#azure)
 * [Azure Devops](#azure-devops)
+* [PowerShell](#powershell)
 
 ### Azure
 * [Azure CLI aliases](azure/azure_cli_aliases.md)
@@ -31,3 +32,5 @@ A collection of TILs
 * [Ambiguous and invalid times](time_zones/ambiguous_and_invalid_times.md)
 ### JSON
 * [jq_basics](json/jq_basics.md)
+### PowerShell
+* [Basic for loop](powershell/basic_for_loop.md)
