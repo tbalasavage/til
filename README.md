@@ -11,6 +11,7 @@ A collection of TILs
 * [Azure](#azure)
 * [Azure Devops](#azure-devops)
 * [PowerShell](#powershell)
+* [Python](#python)
 
 ### Azure
 * [Azure CLI aliases](azure/azure_cli_aliases.md)
@@ -34,3 +35,5 @@ A collection of TILs
 * [jq_basics](json/jq_basics.md)
 ### PowerShell
 * [Basic for loop](powershell/basic_for_loop.md)
+### Python
+* [Escaping braces in string interpolation](python/escaping_braces_in_string_interpolation.md)
