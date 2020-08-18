@@ -35,5 +35,6 @@ A collection of TILs
 * [jq_basics](json/jq_basics.md)
 ### PowerShell
 * [Basic for loop](powershell/basic_for_loop.md)
+* [Escaping single quotes](powershell/escaping_single_quotes.md)
 ### Python
 * [Escaping braces in string interpolation](python/escaping_braces_in_string_interpolation.md)
