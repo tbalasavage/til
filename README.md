@@ -29,6 +29,7 @@ A collection of TILs
 * [JSON with HttpClient](csharp/json_with_httpclient.md)
 ### GitHub
 * [Create saved replies](github/saved_replies.md)
+* [Create PR from command line](github/create_pr_from_command_line.md)
 ### JavaScript
 * [String format dates with dateFormat](javascript/format_dates_with_dateformat.md)
 ### JSON
