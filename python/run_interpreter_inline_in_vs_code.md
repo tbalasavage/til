@@ -1,0 +1,1 @@
+To run the interpreter inline in VS Code, add `# %%` to the beginning of the line to create a new cell. `ipykernel` is required to run the interpreter and may need to be installed. The code inside the cell can be run within the interpreter or can be typed into the window.

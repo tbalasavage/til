@@ -39,6 +39,7 @@ A collection of TILs
 * [Escaping single quotes](powershell/escaping_single_quotes.md)
 ### Python
 * [Escaping braces in string interpolation](python/escaping_braces_in_string_interpolation.md)
+* [Run interpreter inline in VS Code](python/run_interpreter_inline_in_vs_code.md)
 ### Software design
 * [Single responsibility principle (SRP)](softwaredesign/srp.md)
 ### Time Zones
