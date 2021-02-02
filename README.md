@@ -27,7 +27,7 @@ A collection of TILs
 * [Specify constructor for JSON deserialization](csharp/specify_constructor_for_json_deserialization.md)
 * [XUnit TheoryData](csharp/xunit_theorydata.md)
 * [JSON with HttpClient](csharp/json_with_httpclient.md)
-* [Implemented class access to default interface methods](csharp/derived_class_access_to_default_interface_methods.md)
+* [Implemented class access to default interface methods](csharp/implemented_class_access_to_default_interface_methods.md)
 ### GitHub
 * [Create saved replies](github/saved_replies.md)
 * [Create PR from command line](github/create_pr_from_command_line.md)
